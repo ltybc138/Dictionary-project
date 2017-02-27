@@ -1,0 +1,6 @@
+CREATE TABLE TEST2
+(fromLang VARCHAR(255),
+toLang VARCHAR(255),
+fromWord VARCHAR(255),
+toWord VARCHAR(255),
+partOfSpeach VARCHAR(255))

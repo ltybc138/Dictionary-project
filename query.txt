@@ -1,0 +1,4 @@
+CREATE TABLE TEST1
+(id INTEGER not NULL,
+word VARCHAR(255),
+translation VARCHAR(255))
